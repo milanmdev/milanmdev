@@ -16,6 +16,10 @@
 - Discord Server: [https://discord.gg/DDxUSYR](https://discord.gg/DDxUSYR) || I will usually respond to questions here too
 - Email: [support@botrix.ga](mailto:support@botrix.ga) || Least used contact method, I will check this every once in a while
 
+### Personal Site
+
+- [https://milanm.tk](https://milanm.tk)
+
 ### Other Info
 [![milanmdev github stats](https://github-readme-stats.vercel.app/api?username=milanmdev)](https://github.com/anuraghazra/github-readme-stats)
 
