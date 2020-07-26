@@ -1,3 +1,5 @@
+[![Banner](http://cdn.milanm.tk/banners/reheader.png)]
+
 ### Hi there 👋
 
 #### My name is Milan Mehra and I code a ~~little~~ lot. Check out some of my big projects:
