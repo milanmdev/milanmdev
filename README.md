@@ -14,6 +14,9 @@
 - Discord Server: [https://discord.gg/DDxUSYR](https://discord.gg/DDxUSYR) || I will usually respond to questions here too
 - Email: [support@botrix.ga](mailto:support@botrix.ga) || Least used contact method, I will check this every once in a while
 
+### Other Info
+[![milanmdev github stats](https://github-readme-stats.vercel.app/api?username=milanmdev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mdev01real/mdev01real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
