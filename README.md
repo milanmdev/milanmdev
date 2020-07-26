@@ -1,4 +1,4 @@
-[![Banner](http://cdn.milanm.tk/banners/reheader.png)]
+![Banner](http://cdn.milanm.tk/banners/reheader.png)
 
 ### Hi there 👋
 
