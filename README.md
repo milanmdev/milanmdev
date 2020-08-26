@@ -5,6 +5,7 @@
 #### My name is Milan Mehra and I code a ~~little~~ lot. Check out some of my big projects:
 
 - [GigaBot](https://gigabot.ml)
+- [Soundcore](https://soundcorebot.ml)
 - [Donut](https://discord.gg/uMGnXyQ)
 - [Botrix Bot List](https://botrix.xyz)
 - [KeepSafe](https://keepsafe.ga)
@@ -14,7 +15,7 @@
 
 - Discord: mdev01#0001 || My primary contact method
 - Discord Server: [https://discord.gg/DDxUSYR](https://discord.gg/DDxUSYR) || I will usually respond to questions here too
-- Email: [support@botrix.ga](mailto:support@botrix.ga) || Least used contact method, I will check this every once in a while
+- Email: [support@botrix.ga](mailto:support@botrix.ga) || Least used contact method, I will check this every once in a while (NOT SETUP YET)
 
 ### Personal Site
 
