@@ -8,7 +8,7 @@
 - [Soundcore](https://soundcorebot.ml)
 - [Donut](https://discord.gg/uMGnXyQ)
 - [Botrix Bot List](https://botrix.xyz)
-- [KeepSafe](https://keepsafe.ga)
+- [Agiliro](https://agiliro.gq)
 - AND MORE! (I'm in the process of cleaning up my GitHub).
 
 ### Contact/Support
