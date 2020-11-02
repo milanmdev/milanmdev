@@ -4,11 +4,11 @@
 
 #### My name is Milan Mehra and I code a ~~little~~ lot. Check out some of my big projects:
 
-- [GigaBot](https://gigabot.ml)
 - [Slingex](https://slingexdev.ga)
+- [GigaBot](https://gigabot.ml)
 - [Donut](https://discord.gg/uMGnXyQ)
-- [Agiliro](https://agiliro.gq)
-- AND MORE! (I'm in the process of cleaning up my GitHub).
+- [Agiliro](https://agiliro.link)
+- AND MORE!
 
 ### Contact/Support
 
