@@ -18,5 +18,8 @@
 
 - [https://milanm.tk](https://milanm.tk)
 
+### Badges
+![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
+
 ### Other Info
 [![milanmdev github stats](https://github-readme-stats.vercel.app/api?username=milanmdev)](https://github.com/anuraghazra/github-readme-stats)
