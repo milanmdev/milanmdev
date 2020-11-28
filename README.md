@@ -20,6 +20,7 @@
 
 ### Badges
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
+![](https://img.shields.io/website-up-down-green-red/http/milanm.tk.svg)
 
 ### Other Info
 [![milanmdev github stats](https://github-readme-stats.vercel.app/api?username=milanmdev)](https://github.com/anuraghazra/github-readme-stats)
