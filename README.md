@@ -4,9 +4,9 @@
 
 #### My name is Milan Mehra and I code a ~~little~~ lot. Check out some of my big projects:
 
+- [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
 - [Donut](https://donut-botgg.glitch.me/)
-- [Chatwind](https://chatwind.ga)
 - AND MORE!
 
 ### Contact/Support
