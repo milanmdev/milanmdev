@@ -1,18 +1,16 @@
 ![Banner](https://cdn.milanm.tk/banners/reheader.png)
 
-### Hi there 👋
+### 👋 Hello there!
 
-#### My name is Milan Mehra and I code a ~~little~~ lot. Check out some of my big projects:
+#### My name is Milan and I am a backend JavaScript developer. I know how to make things from webservers to Discord bots. Check out some of my projects below:
 
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
-- [Donut](https://donut-botgg.glitch.me/)
-- AND MORE!
 
 ### Contact/Support
 
 - Discord: mdev01#0001 || My primary contact method
-- Discord Server: [https://discord.gg/DDxUSYR](https://discord.gg/DDxUSYR) || I will usually respond to questions here too
+- Email: [milanmdev@gmail.com](mailto:milanmdev@gmail.com) || I answers this *sometimes*
 
 ### Personal Site
 
