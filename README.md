@@ -2,7 +2,7 @@
 
 ### 👋 Hello there!
 
-#### My name is Milan and I am a backend JavaScript developer. I know how to make things from webservers to Discord bots. Check out some of my projects below:
+#### Uh I don't really know why you are looking here, because everything here is probably broken or is just abosolute trash. Anyways, I'm a 13 y/o professional bug creator and here are some of the bugs I have made:
 
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
