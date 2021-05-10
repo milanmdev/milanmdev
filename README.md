@@ -1,4 +1,4 @@
-![Banner](https://cdn.milanm.tk/banners/reheader.png)
+<!-- ![Banner](https://cdn.milanm.tk/banners/reheader.png) -->
 
 ### 👋 Hello there!
 
@@ -12,10 +12,10 @@
 - Discord: mdev01#0001 || My primary contact method
 - Email: [milanmdev@gmail.com](mailto:milanmdev@gmail.com) || I answers this *sometimes*
 
-### Personal Site
+<!-- ### Personal Site  -->
 
-- [https://milanm.tk](https://milanm.tk)
-
+<!-- - [https://milanm.tk](https://milanm.tk) -->
+ 
 ### Badges
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
 ![](https://img.shields.io/website-up-down-green-red/http/milanm.tk.svg)
