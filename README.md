@@ -6,6 +6,7 @@
 
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
+- [Discord Assets List](https://github.com/milanmdev/discord-assets)
 
 ### Contact/Support
 
