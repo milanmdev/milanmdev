@@ -21,7 +21,7 @@
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
 ![](https://img.shields.io/website-up-down-green-red/http/milanm.tk.svg)
 ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-[![Discord](https://img.shields.io/discord/731053649052041247.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/DDxUSYR)
+[![Discord](https://img.shields.io/discord/731053649052041247.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
 
 ### Coding Stats
 <img src="https://wakatime.com/share/@milanmdev/d7d17447-6a6f-4fec-8f82-913061fd09e6.svg" alt="langs" width="50%"/>
