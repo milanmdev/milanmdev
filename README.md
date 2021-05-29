@@ -1,20 +1,26 @@
-<!-- ![Banner](https://cdn.milanm.tk/banners/reheader.png) -->
+## 👋 Hello there!
 
-### 👋 Hello there!
+I'm a 13 year old JavaScript developer. Look below for some information about me.
 
-#### Uh I don't really know why you are looking here, because everything here is probably broken or is just abosolute trash. Anyways, I'm a 13 y/o professional bug creator and here are some of the bugs I have made:
+### Languages/Packages
+
+- JavaScript
+- EJS
+- Discord.js
+- Node.js
+- MongoDB
+- Express.js
+
+### Projects
 
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
+- [DiscordBuilds](https://blist.xyz/bot/843209007753330760)
 
 ### Contact/Support
 
 - Discord: mdev01#0001 || My primary contact method
-- Email: [milanmdev@gmail.com](mailto:milanmdev@gmail.com) || I answers this *sometimes*
-
-<!-- ### Personal Site  -->
-
-<!-- - [https://milanm.tk](https://milanm.tk) -->
+- Email: [milanmdev@gmail.com](mailto:milanmdev@gmail.com) || I answer this *sometimes*
  
 ### Badges
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
