@@ -30,6 +30,7 @@ I'm a 13 year old JavaScript developer. Look below for some information about me
 
 <details open>
   <summary>Badges</summary> 
+ 
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
 [![Website](https://img.shields.io/website-up-down-green-red/http/milanmdev.codes.svg)](https://milanmdev.codes)
 ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
@@ -39,6 +40,3 @@ I'm a 13 year old JavaScript developer. Look below for some information about me
 ### Coding Stats
 <img src="https://wakatime.com/share/@milanmdev/d7d17447-6a6f-4fec-8f82-913061fd09e6.svg" alt="langs" width="50%"/>
 <img src="https://wakatime.com/share/@milanmdev/c66d04c6-d589-4114-a44b-6c44f6bb4ded.svg" alt="time" width="50%"/>
-
-### Other Info
-[![milanmdev github stats](https://github-readme-stats.vercel.app/api?username=milanmdev)](https://github.com/anuraghazra/github-readme-stats)
