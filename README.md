@@ -25,7 +25,7 @@ I'm a 13 year old JavaScript developer. Look below for some information about me
  
 ### Badges
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
-![](https://img.shields.io/website-up-down-green-red/http/milanmdev.codes.svg)
+[![Website](https://img.shields.io/website-up-down-green-red/http/milanmdev.codes.svg)](https://milanmdev.codes)
 ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 [![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
 
