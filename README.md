@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm a 13 year old JavaScript developer. Look below for some information about me.
+I'm a 13 year old JavaScript developer. Look below for some information about me. View my website at [milanmdev.codes](https://milanmdev.codes).
 
 ### Languages/Packages
 
@@ -15,6 +15,7 @@ I'm a 13 year old JavaScript developer. Look below for some information about me
 
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
+- [Marketcord](https://marketcord.xyz)
 - [DiscordBuilds](https://blist.xyz/bot/843209007753330760)
 
 ### Contact/Support
@@ -24,7 +25,7 @@ I'm a 13 year old JavaScript developer. Look below for some information about me
  
 ### Badges
 ![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
-![](https://img.shields.io/website-up-down-green-red/http/milanm.tk.svg)
+![](https://img.shields.io/website-up-down-green-red/http/milanmdev.codes.svg)
 ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 [![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
 
