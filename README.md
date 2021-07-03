@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm a 13 year old JavaScript developer. Look below for some information about me. View my website at [milanmdev.codes](https://milanmdev.codes).
+Look below for some information about me. View my website at [milanmdev.codes](https://milanmdev.codes).
 
 ### Languages/Packages
 
