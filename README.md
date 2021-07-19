@@ -16,7 +16,7 @@ Look below for some information about me. View my website at [milanmdev.codes](h
 - [Chatwind](https://chatwindapp.com)
 - [Slingex](https://slingexdev.ga)
 - [Marketcord](https://marketcord.xyz)
-- [DiscordBuilds](https://blist.xyz/bot/843209007753330760)
+- [DiscordBuilds](https://bots.discordlabs.org/bot/843209007753330760)
 
 ### Contact/Support
 
