@@ -5,6 +5,7 @@ Look below for some information about me. View my website at [milanmdev.codes](h
 ### Languages/Packages
 
 - JavaScript
+- Next.js
 - EJS
 - Discord.js
 - Node.js
