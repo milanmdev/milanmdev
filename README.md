@@ -1,40 +1,30 @@
-## 👋 Hello there!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36ST6B)
+# 👋 Hello there, I'm Milan
+### I'm a 13 y/o full-stack developer, who likes to tinker with new ideas
 
-Look below for some information about me. View my website at [milanmdev.codes](https://milanmdev.codes).
+[![GitHub](https://api.ghprofile.me/view?username=milanmdev&style=flat)](https://github.com/milanmdev)
+[![Website](https://img.shields.io/website-up-down-green-red/http/milanm.org.svg)](https://milanm.org)
+[![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
 
-### Languages/Packages
+### About Me
+I do things mainly involving JavaScript. I have experience in using Next.js, Discord.js, Mongoose, and many more popular libraries.
 
-- JavaScript
-- Next.js
-- EJS
-- Discord.js
-- Node.js
-- MongoDB
-- Express.js
+If you'd like to learn more about me, check out my website at [milanm.org](https://milanm.org)
 
 ### Projects
 
 - [WebProfiles](https://webprofiles.me)
-- [Slingex](https://slingexdev.ga)
-- [DiscordBuilds](https://bots.discordlabs.org/bot/843209007753330760)
+- [Slingex](https://slingex.xyz)
+- [DiscordBuilds](https://l.milanm.org/discordbuilds)
 
 ### Contact/Support
 
-- Discord: mdev01#0001 || My primary contact method
-- Email: [milanmdev@gmail.com](mailto:milanmdev@gmail.com) || I answer this *sometimes*
+- Discord: mdev01#0001
+- Email: [milan@milanm.org](mailto:milan@milanm.org)
  
 <details>
   <summary>GitHub Activity and Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api?username=milanmdev&count_private=true&show_icons=true&theme=gotham" />
-</details>
-
-<details open>
-  <summary>Badges</summary> 
- 
-![](https://api.ghprofile.me/view?username=milanmdev&style=flat)
-[![Website](https://img.shields.io/website-up-down-green-red/http/milanmdev.codes.svg)](https://milanmdev.codes)
-![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-[![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
 </details>
 
 ![Metrics](https://github.com/milanmdev/milanmdev/blob/master/github-metrics.svg)
