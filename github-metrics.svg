@@ -2609,22 +2609,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">discord-scam-manager</span>
-                                <div class="bar" style="width: 54.36%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">68%</span>
+                                <div class="bar" style="width: 55.232%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">DiscordBuilds</span>
-                                <div class="bar" style="width: 13.680000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 11.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">slingex-v2</span>
-                                <div class="bar" style="width: 6.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 8.495999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">discord-hash-stuff</span>
-                                <div class="bar" style="width: 4.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
@@ -2634,22 +2634,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 50.431999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 51.248000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 23.64%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">30%</span>
+                                <div class="bar" style="width: 22.752%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 4.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.247999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 1.3119999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3359999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -2658,7 +2658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2021, 00:16:34 (timezone America/Chicago) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 10 Nov 2021, 01:14:24 (timezone America/Chicago) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
