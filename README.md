@@ -4,7 +4,7 @@
 
 [![GitHub](https://api.ghprofile.me/view?username=milanmdev&style=flat)](https://github.com/milanmdev)
 [![Website](https://img.shields.io/website-up-down-green-red/http/milanm.org.svg)](https://milanm.org)
-[![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/aZCMEnp3CP)
+[![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=5865F2&labelColor=4b55c4)](https://discord.gg/aZCMEnp3CP)
 
 ### About Me
 I do things mainly involving JavaScript. I have experience with using Next.js, Discord.js, Mongoose, and many more popular libraries.
