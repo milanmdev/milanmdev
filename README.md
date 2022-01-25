@@ -2,7 +2,7 @@
 # 👋 Hello there, I'm Milan
 ### I'm a full-stack developer, who likes to tinker with new ideas
 
-[![GitHub](https://api.ghprofile.me/view?username=milanmdev&style=flat)](https://github.com/milanmdev)
+<!-- [![GitHub](https://api.ghprofile.me/view?username=milanmdev&style=flat)](https://github.com/milanmdev) -->
 [![Website](https://img.shields.io/website-up-down-green-red/http/milanm.org.svg)](https://milanm.org)
 [![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=5865F2&labelColor=4b55c4)](https://discord.gg/aZCMEnp3CP)
 
@@ -17,6 +17,7 @@ If you'd like to learn more about me, check out my website at [milanm.org](https
 - [Slingex](https://slingex.xyz)
 - [DiscordBuilds](https://l.milanm.org/discordbuilds)
 - [EmojiRole](https://l.milanm.org/emojirole)
+- [Hookly](https://l.milanm.org/hookly)
 
 ### Contact/Support
 
