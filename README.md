@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/discord/842151715695624192.svg?label=&logo=discord&logoColor=ffffff&color=5865F2&labelColor=4b55c4)](https://discord.gg/aZCMEnp3CP)
 
 ### About Me
-I do things mainly involving JavaScript. I have experience with using Next.js, Discord.js, Mongoose, and many more popular libraries.
+I do things mainly involving JavaScript. I have experience with using Next.js, Discord.js, Mongoose, Prisma and many more popular libraries.
 
 If you'd like to learn more about me, check out my website at [milanm.org](https://milanm.org)
 
