@@ -4,8 +4,8 @@
 <h3 align="center">I'm a full-stack developer who likes to tinker with new ideas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,go,ts,react,html,md,tailwind,git,nginx,prisma,figma,cloudflare,gcp" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,ps,pr,ae,ai,discord,discordbots,linux" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,go,ts,react,html,md,tailwind,git,nginx,kubernetes,docker,prisma,figma" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,firebase,mongodb,ps,pr,ae,ai,discord,discordbots,linux" />
   </a>
 </p>
 
