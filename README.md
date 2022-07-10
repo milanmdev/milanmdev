@@ -11,7 +11,7 @@
 
 ### Contact/Support
 
-- Discord: Milan#9000
+- Discord: Azu#3621
 - Discord Server: [discord.gg/aZCMEnp3CP](https://discord.gg/aZCMEnp3CP)
 - Email: [milan@milanm.org](mailto:milan@milanm.org)
  
