@@ -16,3 +16,6 @@
 EmojiRole does not store any of your information.
 
 We do not have access to anything you do on the Discord client.
+
+# Terms of Service
+By using the EmojiRole Discord bot, you agree to the [Discord Terms of Service](https://discord.com/terms).
