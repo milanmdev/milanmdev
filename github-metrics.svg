@@ -1335,13 +1335,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">milan-website</span>
-                                <div class="bar" style="width: 72.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">91%</span>
+                                <div class="bar" style="width: 58.54400000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">73%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">homelab</span>
+                                <div class="bar" style="width: 16.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">pico-garage-sensor</span>
-                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
@@ -1350,13 +1355,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 72.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">91%</span>
+                                <div class="bar" style="width: 74.608%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">93%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 7.231999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 5.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
@@ -1364,7 +1369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2023, 00:04:34 (timezone America/Chicago) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 01:04:12 (timezone America/Chicago) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
