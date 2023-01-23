@@ -4,15 +4,13 @@
 <h3 align="center">I'm a full-stack developer who likes to tinker with new ideas</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,go,ts,react,html,md,tailwind,git,nginx,kubernetes,docker,prisma,figma" />
-    <img src="https://skillicons.dev/icons?i=cloudflare,gcp,firebase,mongodb,ps,pr,ae,ai,discord,discordbots,linux,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,go,html,bash,git,nginx,kubernetes,docker,linux" />
   </a>
 </p>
 
 ### Contact/Support
 
 - Discord: Azu#3621
-- Discord Server: [discord.gg/aZCMEnp3CP](https://discord.gg/aZCMEnp3CP)
 - Email: [milan@milanm.org](mailto:milan@milanm.org)
  
 ---
