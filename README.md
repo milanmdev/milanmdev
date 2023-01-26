@@ -1,5 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36ST6B) 
-
 <h1 align="center">👋 Hello there, I'm Milan</h1>
 <h3 align="center">I'm a full-stack developer who likes to tinker with new ideas</h3>
 <p align="center">
