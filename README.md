@@ -8,7 +8,6 @@
 
 ### Contact/Support
 
-- Discord: Azu#3621
 - Email: [milan@milanm.org](mailto:milan@milanm.org)
  
 ---
