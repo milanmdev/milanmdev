@@ -13,7 +13,7 @@
  
 <details>
   <summary>GitHub Activity and Statistics</summary>
-  <img src="https://github.com/milanmdev/milanmdev/blob/master/github-metrics.svg" />
+  <img src="/github-metrics.svg" />
 </details>
 <details>
   <summary>Coding Stats</summary>
