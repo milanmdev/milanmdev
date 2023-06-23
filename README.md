@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hello there, I'm Milan</h1>
-<h3 align="center">I'm a full-stack developer who likes to tinker with new ideas</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,go,html,bash,git,nginx,kubernetes,docker,linux" />
-  </a>
-</p>
+# 👋 Hello there, I'm Milan
+## I'm a full-stack developer who likes to tinker with new ideas
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,html,go,bash,git,nginx,prisma,kubernetes,docker,linux)](https://skillicons.dev)
+
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/423203831971708958)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/423203831971708958)
 
 ### Contact/Support
 
