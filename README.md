@@ -18,5 +18,10 @@
 <details>
   <summary>Coding Stats</summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+JSON   8 mins          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
 </details>
