@@ -17,5 +17,6 @@
 </details>
 <details>
   <summary>Coding Stats</summary>
-  <img src="https://wakatime.com/share/@milanmdev/879ea708-6ca5-4f0e-98f7-d521f907ab62.svg" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
