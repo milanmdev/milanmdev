@@ -20,11 +20,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JSON         7 mins          ██████████▒░░░░░░░░░░░░░░   41.36 %
-Docker       4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-TypeScript   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-Bash         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
