@@ -20,7 +20,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         0 secs          ██████████████░░░░░░░░░░░   56.60 %
+Git Config   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.13 %
+Markdown     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
