@@ -1,5 +1,4 @@
 # 👋 Hello there, I'm Milan
-## I'm a full-stack developer who likes to tinker with new ideas
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,html,go,bash,git,nginx,prisma,kubernetes,docker,linux)](https://skillicons.dev)
 
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/423203831971708958)
