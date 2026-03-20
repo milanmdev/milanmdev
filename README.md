@@ -19,8 +19,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Bash     2 mins                ████████████████████████▓   98.37 %
-Docker   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript   1 hr 8 mins           ████████████████████████▒   97.60 %
+JSON         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
