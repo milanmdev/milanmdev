@@ -19,11 +19,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JSON         14 mins               █████████▓░░░░░░░░░░░░░░░   38.84 %
-JavaScript   12 mins               ████████▒░░░░░░░░░░░░░░░░   33.49 %
-TypeScript   7 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-YAML         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
